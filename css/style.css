@@ -1342,6 +1342,7 @@ button:focus{
 	-ms-transition: all 0.3s;
 	transition: all 0.3s;
 }
+
 .submit-button .btn-common:hover{
 	background-color: #528780;
 }
@@ -1375,9 +1376,6 @@ select.form-control:not([size]):not([multiple]){
 .footer-box .footer-company-name a:hover{
 	color: #000000;
 }
-
-
-
 
 /*------------------------------------------------------------------
     Subscribe
@@ -1451,7 +1449,7 @@ select.form-control:not([size]):not([multiple]){
     footer
 -------------------------------------------------------------------*/
 .footer{
-	width: 100%;
+	width: auto;
 	height: auto;
 }
 
